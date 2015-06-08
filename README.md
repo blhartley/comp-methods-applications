@@ -1,3 +1,5 @@
 # comp-methods-applications
 From AMS 147 Class at UCSC. Poor commenting.
-This is an unfinished read me file.
+
+This class didn't require us to comment our code.
+Thus the code is poorly commented.
