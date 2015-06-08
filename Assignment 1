@@ -1,1 +1,430 @@
-this is assignment 1
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+        <title>coderbits - Intelligent portfolios for developers and designers</title>
+
+        <meta name="description" content="Intelligent portfolios for developers and designers">
+        <meta name="keywords" content="coders, developers, engineers, designers, open source, resume, portfolio, cv, achievements, accomplishments, badges, job, jobs, job sites, it jobs, computer jobs, engineering jobs, technology jobs, c#, f#, javascript, html, html5, css, css3, sass, less, ruby, java, nodejs, .net, python, php, perl, education, experience, code, source">
+
+        <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png" />
+        <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png" />
+        <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png" />
+        <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png" />
+        <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png" />
+        <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png" />
+        <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
+        <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+        <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+        <link rel="icon" type="image/png" href="/favicon-160x160.png" sizes="160x160" />
+        <meta name="msapplication-TileColor" content="#2d89ef" />
+        <meta name="msapplication-TileImage" content="/mstile-144x144.png" />
+        <meta name="msapplication-square70x70logo" content="/mstile-70x70.png" />
+        <meta name="msapplication-square150x150logo" content="/mstile-150x150.png" />
+        <meta name="msapplication-wide310x150logo" content="/mstile-310x150.png" />
+        <meta name="msapplication-square310x310logo" content="/mstile-310x310.png" />
+
+        
+
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:site:id" content="594725175">
+        <meta name="twitter:title" content="coderbits">
+        <meta name="twitter:description" content="Intelligent portfolios for developers and designers">
+        <meta property="og:title" content="coderbits"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:description" content="Intelligent portfolios for developers and designers"/>
+        <meta property="og:image" content="https://coderbits.com/images/coderbits.png"/>
+        <meta property="og:image:secure_url" content="https://coderbits.com/images/coderbits.png"/>
+
+        <link href="/Content/css/shared?v=xsFQxRt4zC-Efy-FOKhsJx4lwQByWMdzl7OnLPjDaEM1" rel="stylesheet"/>
+
+
+        <link href='https://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'>
+        
+    <style type="text/css">        
+        .body {
+            padding: 25px 0 0 0;
+        }
+    </style>
+
+
+        <script src="/Scripts/modernizr?v=qVODBytEBVVePTNtSFXgRX0NCEjh9U_Oj8ePaSiRcGg1"></script>
+
+
+
+        
+        <script type="text/javascript">
+            var analytics = analytics || []; analytics.load = function (e) { var t = document.createElement("script"); t.type = "text/javascript", t.async = !0, t.src = ("https:" === document.location.protocol ? "https://" : "http://") + "d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/" + e + "/analytics.min.js"; var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(t, n); var r = function (e) { return function () { analytics.push([e].concat(Array.prototype.slice.call(arguments, 0))) } }, i = ["identify", "track", "trackLink", "trackForm", "trackClick", "trackSubmit", "pageview", "ab", "alias", "ready"]; for (var s = 0; s < i.length; s++) analytics[i[s]] = r(i[s]) };
+            analytics.load("tqpb8onvh6");
+        </script>
+    </head>
+    <body id="top">
+        <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+
+
+
+        
+
+        
+
+<header id="header">
+    <div class="container">
+        <div class="row">
+            <div class="span2">
+                <a href="/" class="logo-large">
+                    coderbits
+                </a>
+            </div>
+            <div class="span10">
+                    <nav class="left">
+                        <ul>
+                            <li class=" sub-menus">
+                                <a href="/posts">Posts</a>
+                                <ul>
+                                    <li style="border-bottom: solid 1px #D34A00;">
+                                        <a href="/posts/create">Create a Post</a>
+                                    </li>
+                                    <li>
+                                        <a href="/posts/code">Code</a>
+                                    </li>
+                                    <li>
+                                        <a href="/posts/comments">Comments</a>
+                                    </li>
+                                    <li>
+                                        <a href="/posts/designs">Designs</a>
+                                    </li>
+                                    <li>
+                                        <a href="/posts/links">Links</a>
+                                    </li>
+                                    <li>
+                                        <a href="/posts/questions">Questions</a>
+                                    </li>
+                                    <li>
+                                        <a href="/posts/tips">Tips</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class=" sub-menus">
+                                <a href="/coders">Leaderboards</a>
+                                <ul>
+                                    <li>
+                                        <a href="/coders">Coders</a>
+                                    </li>
+                                    <li>
+                                        <a href="/teams">Teams</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            
+                        </ul>
+                    </nav>
+
+                    <nav class="right">
+                        <ul>
+                            <li class="">
+                                <a href="/tour">Tour</a>
+                            </li>
+                            <li class="">
+                                <a href="/pricing">Pricing</a>
+                            </li>
+                            <li class="">
+                                <a href="/account/signin?returnurl=/">Sign In</a>
+                            </li>
+                            <li class="">
+                                <a href="/account/signup" class="btn btn-primary">Create a free account</a>
+                            </li>
+                        </ul>
+                    </nav>
+            </div>
+        </div>
+    </div>
+</header>
+        <section class="body">
+            
+
+
+<div class="container">
+    <div>
+        <div class="row">
+            <div class="span12">
+                <div class="landing-panel landing-panel-main center">
+                    <h1>coderbits</h1>
+                    <h2 class="subtitle">Intelligent portfolios for developers and designers</h2>
+
+                    <div class="row coders">
+                        <div class="span4 text-right">
+                                <a href="/simov" data-powertip="&lt;div class=&quot;hovercard-data&quot;&gt;&lt;h3&gt;simov&lt;/h3&gt;&lt;p&gt;coder&lt;/div&gt;" class="hovercard">
+                                    <img src="https://secure.gravatar.com/avatar/ff025f2d0ef869e2080a77f8ef0e1e4b?d=https%3A%2F%2Fcoderbits.com%2Fimages%2Fgravatar.png&amp;r=PG&s=148" />
+                                </a>
+                                <a href="/rachelober" data-powertip="&lt;div class=&quot;hovercard-data&quot;&gt;&lt;h3&gt;rachelober&lt;/h3&gt;&lt;p&gt;coder&lt;/div&gt;" class="hovercard">
+                                    <img src="https://secure.gravatar.com/avatar/297d4a4b165eb79b7e341645a05c70d6?d=https%3A%2F%2Fcoderbits.com%2Fimages%2Fgravatar.png&r=PG&s=148" />
+                                </a>
+                                <a href="/PistachioPony" data-powertip="&lt;div class=&quot;hovercard-data&quot;&gt;&lt;h3&gt;Pistachio Pony&lt;/h3&gt;&lt;p&gt;junior coder&lt;/div&gt;" class="hovercard">
+                                    <img src="https://secure.gravatar.com/avatar/083989ab15a3a7119b65604a082cc898?d=https%3A%2F%2Fcoderbits.com%2Fimages%2Fgravatar.png&r=PG&s=148" />
+                                </a>
+                                <a href="/sboudrias" data-powertip="&lt;div class=&quot;hovercard-data&quot;&gt;&lt;h3&gt;Simon Boudrias&lt;/h3&gt;&lt;p&gt;Frontend Developper&lt;/div&gt;" class="hovercard">
+                                    <img src="https://secure.gravatar.com/avatar/368346708a485060d31f77677a21d2a5?d=https%3A%2F%2Fcoderbits.com%2Fimages%2Fgravatar.png&amp;r=PG&s=148" />
+                                </a>
+                                <a href="/Seldaek" data-powertip="&lt;div class=&quot;hovercard-data&quot;&gt;&lt;h3&gt;Seldaek&lt;/h3&gt;&lt;p&gt;web developer&lt;/div&gt;" class="hovercard">
+                                    <img src="https://secure.gravatar.com/avatar/48b79d17cd8a911327cbd88c122b1efb?d=https%3A%2F%2Fcoderbits.com%2Fimages%2Fgravatar.png&amp;r=PG&s=148" />
+                                </a>
+                                <a href="/wibblymat" data-powertip="&lt;div class=&quot;hovercard-data&quot;&gt;&lt;h3&gt;wibblymat&lt;/h3&gt;&lt;p&gt;coder&lt;/div&gt;" class="hovercard">
+                                    <img src="https://secure.gravatar.com/avatar/c2b874c38990ed90a0ed15ac33bda00f?d=https%3A%2F%2Fcoderbits.com%2Fimages%2Fgravatar.png&amp;r=PG&s=148" />
+                                </a>
+                        </div>
+                        <div class="span4">
+
+                                <a href="/passy" data-powertip="&lt;div class=&quot;hovercard-data&quot;&gt;&lt;h3&gt;passy&lt;/h3&gt;&lt;p&gt;Open Source Addict&lt;/div&gt;" class="hovercard">
+                                    <img src="https://secure.gravatar.com/avatar/be451fcdbf0e5ff07f23ed16cb5c90a3?d=https%3A%2F%2Fcoderbits.com%2Fimages%2Fgravatar.png&amp;r=PG&s=148" />
+                                </a>
+                                <a href="/jdantonio" data-powertip="&lt;div class=&quot;hovercard-data&quot;&gt;&lt;h3&gt;Jerry D&#39;Antonio&lt;/h3&gt;&lt;p&gt;coder&lt;/div&gt;" class="hovercard">
+                                    <img src="https://secure.gravatar.com/avatar/afc40875bec6a95232a5d779336bc695?d=https%3A%2F%2Fcoderbits.com%2Fimages%2Fgravatar.png&amp;r=PG&s=148" />
+                                </a>
+                                <a href="/milena" data-powertip="&lt;div class=&quot;hovercard-data&quot;&gt;&lt;h3&gt;Milena Araujo&lt;/h3&gt;&lt;p&gt;web developer, researcher and vice-versa&lt;/div&gt;" class="hovercard">
+                                    <img src="https://secure.gravatar.com/avatar/d036451856144b5b5986daf45cc254ba?d=https%3A%2F%2Fcoderbits.com%2Fimages%2Fgravatar.png&r=PG&s=148" />
+                                </a>
+                                <a href="/rymai" data-powertip="&lt;div class=&quot;hovercard-data&quot;&gt;&lt;h3&gt;rymai&lt;/h3&gt;&lt;p&gt;coder&lt;/div&gt;" class="hovercard">
+                                    <img src="https://secure.gravatar.com/avatar/fa84dea1819c9eb4e6a01394159769f4?d=https%3A%2F%2Fcoderbits.com%2Fimages%2Fgravatar.png&amp;r=PG&s=148" />
+                                </a>
+                                <a href="/thebabydino" data-powertip="&lt;div class=&quot;hovercard-data&quot;&gt;&lt;h3&gt;Ana Tudor&lt;/h3&gt;&lt;p&gt;&lt;/div&gt;" class="hovercard">
+                                    <img src="https://secure.gravatar.com/avatar/bee436794e066a5423040cf673c7506f?d=https%3A%2F%2Fcoderbits.com%2Fimages%2Fgravatar.png&r=PG&s=148" />
+                                </a>
+                                <a href="/shanselman" data-powertip="&lt;div class=&quot;hovercard-data&quot;&gt;&lt;h3&gt;shanselman&lt;/h3&gt;&lt;p&gt;coder&lt;/div&gt;" class="hovercard">
+                                    <img src="https://secure.gravatar.com/avatar/719c91f5c3013e43ee46ed2bdc67f883?d=https%3A%2F%2Fcoderbits.com%2Fimages%2Fgravatar.png&amp;r=PG&s=148" />
+                                </a>
+                        </div>
+                        <div class="span4 text-left">
+
+                                <a href="/GraceNut" data-powertip="&lt;div class=&quot;hovercard-data&quot;&gt;&lt;h3&gt;GraceNut&lt;/h3&gt;&lt;p&gt;&lt;/div&gt;" class="hovercard">
+                                    <img src="https://secure.gravatar.com/avatar/294b332aeae210134636f22165320b45?d=https%3A%2F%2Fcoderbits.com%2Fimages%2Fgravatar.png&r=PG&s=148" />
+                                </a>
+                                <a href="/kimworking" data-powertip="&lt;div class=&quot;hovercard-data&quot;&gt;&lt;h3&gt;Kim Christensen&lt;/h3&gt;&lt;p&gt;coder&lt;/div&gt;" class="hovercard">
+                                    <img src="https://secure.gravatar.com/avatar/a03f4d56e65571977ce1b5eb270b46e3?d=https%3A%2F%2Fcoderbits.com%2Fimages%2Fgravatar.png&amp;r=PG&s=148" />
+                                </a>
+                                <a href="/joshdmiller" data-powertip="&lt;div class=&quot;hovercard-data&quot;&gt;&lt;h3&gt;joshdmiller&lt;/h3&gt;&lt;p&gt;Open Source Product Manager&lt;/div&gt;" class="hovercard">
+                                    <img src="https://secure.gravatar.com/avatar/5dfdb19c3d8ba8050ce64c4f2a7b7e12?d=https%3A%2F%2Fcoderbits.com%2Fimages%2Fgravatar.png&amp;r=PG&s=148" />
+                                </a>
+                                <a href="/kzu" data-powertip="&lt;div class=&quot;hovercard-data&quot;&gt;&lt;h3&gt;kzu&lt;/h3&gt;&lt;p&gt;coder&lt;/div&gt;" class="hovercard">
+                                    <img src="https://secure.gravatar.com/avatar/7e92eefff275a0ce3fc5bf98d6cf9798?d=https%3A%2F%2Fcoderbits.com%2Fimages%2Fgravatar.png&amp;r=PG&s=148" />
+                                </a>
+                                <a href="/timrwood" data-powertip="&lt;div class=&quot;hovercard-data&quot;&gt;&lt;h3&gt;Tim Wood&lt;/h3&gt;&lt;p&gt;&lt;/div&gt;" class="hovercard">
+                                    <img src="https://secure.gravatar.com/avatar/a511064517dfdf9ab9153843437ed2ff?d=https%3A%2F%2Fcoderbits.com%2Fimages%2Fgravatar.png&amp;r=PG&s=148" />
+                                </a>
+                                <a href="/monigarr" data-powertip="&lt;div class=&quot;hovercard-data&quot;&gt;&lt;h3&gt;monigarr&lt;/h3&gt;&lt;p&gt;Mobile Software Developer. IOS, Android, ObjC, Java&lt;/div&gt;" class="hovercard">
+                                    <img src="https://secure.gravatar.com/avatar/318483bb96ea0aaf4c40c531ec6aec6d?d=https%3A%2F%2Fcoderbits.com%2Fimages%2Fgravatar.png&r=PG&s=148" />
+                                </a>
+                        </div>
+                    </div>
+
+                    <h2>We build factual up-to-date portfolios from sites you use to showcase your skills, expertise, traits, code, designs, education, and more.</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="span6">
+                <div class="landing-panel-signup center">
+                    <h3>Developers and Designers</h3>
+                    <h3>Create your free portfolio in seconds</h3>
+                    <br />
+                    <div>
+                        <a class="btn btn-primary btn-large" href="/account/signup">CREATE YOUR PORTFOLIO</a>
+                    </div>
+                </div>
+            </div>
+            <div class="span6">
+                <div class="landing-panel-signup center">
+                    <h3>Employers, Educators, Businesses</h3>
+                    <h3>Tap into the rich talent pool on coderbits</h3>
+                    <br />
+                    <div>
+                        <a class="btn btn-primary btn-large" href="/tour">TAKE THE TOUR</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="span12">
+                <div class="landing-panel landing-panel-how">
+                    <h1 class="center sub">How it Works</h1>
+                    <div class="row">
+                        <div class="span3 center">
+                            <h2><span class="circle">1</span> Connect</h2>
+                            <p>Link accounts from 60+ sites like GitHub, Dribbble, Stack Overflow, and Code School.</p>
+                        </div>
+                        <div class="span3 center">
+                            <h2><span class="circle">2</span> Build</h2>
+                            <p>Have a portfolio automatically built and updated for you.</p>
+                        </div>
+                        <div class="span3 center">
+                            <h2><span class="circle">3</span> Measure</h2>
+                            <p>Measure skills, expertise, traits, code, designs, education, and more.</p>
+                        </div>
+                        <div class="span3 center">
+                            <h2><span class="circle">4</span> Present</h2>
+                            <p>Share your portfolio with peers and employers to impress and land your dream job.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="span12">
+                <div class="landing-panel landing-panel-features">
+                    <h1 class="center sub">Features</h1>
+                    <div class="row">
+                        <div class="span8 offset2">
+                            <h2><i class="icon-cogs"></i> Automatically built portfolio</h2>
+                            <p>Creating your profile is as easy as linking to the sites you already use. We take on the difficult work of pulling your information and building a profile that represents you.</p>
+                            <p>Once a profile is created, we will continue to keep your information up to date. You will now have a single place to showcase all of your skills, work, accomplishments, and much more.</p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="span8 offset2">
+                            <h2><i class="icon-random"></i> 60+ sites to connect</h2>
+                            <p>We currently support 63 sites that can be linked to and consumed such as GitHub, Dribbble, Stack Overflow, CodePen, Project Euler, Code School, Readability, RubyGems, Meetup, Speaker Deck, and many more.</p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="span8 offset2">
+                            <h2><i class="icon-sitemap"></i> Organized portfolios</h2>
+                            <p>Portfolios are broken up into 9 distinct areas to identify, quantify, and qualify each developer and designer.</p>
+                            <p></p>
+                            <div class="row">
+                                <div class="span3"><p>Skills</p></div>
+                                <div class="span3"><p>Code</p></div>
+                                <div class="span3"><p>Binaries</p></div>
+                                <div class="span3"><p>Designs</p></div>
+                                <div class="span3"><p>Education</p></div>
+                                <div class="span3"><p>Competitions</p></div>
+                                <div class="span3"><p>Awards</p></div>
+                                <div class="span3"><p>Memberships</p></div>
+                                <div class="span3"><p>Activity</p></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="span8 offset2">
+                            <h2><i class="icon-trophy"></i> 600+ badges</h2>
+                            <p>We currently award 638 badges based on your activity on linked accounts. Not only do these badges show off your accomplishments, they also exhibit your core traits.</p>
+                            <div class="row">
+                                <div class="span3"><p>Ambition</p></div>
+                                <div class="span3"><p>Communication</p></div>
+                                <div class="span3"><p>Influence</p></div>
+                                <div class="span3"><p>Initiative</p></div>
+                                <div class="span3"><p>Knowledge</p></div>
+                                <div class="span3"><p>Productivity</p></div>
+                                <div class="span3"><p>Quality</p></div>
+                                <div class="span3"><p>Self Development</p></div>
+                                <div class="span3"><p>Skills</p></div>
+                                <div class="span3"><p>Teamwork</p></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="span8 offset2">
+                            <h2><i class="icon-group"></i> Automatic social connections</h2>
+                            <p>We all want to be social, see what our friends and colleagues are doing, but do we really want another social site where we have to manage our connections? We don't think so.</p>
+                            <p>We provide all the benefits of social without the hassle by automatically building your connections from connections on your linked sites.</p>
+                            <div class="row">
+                                    <div class="span3"><p>Bitbucket</p></div>
+                                    <div class="span3"><p>Dribbble</p></div>
+                                    <div class="span3"><p>Geeklist</p></div>
+                                    <div class="span3"><p>GitHub</p></div>
+                                    <div class="span3"><p>LinkedIn</p></div>
+                                    <div class="span3"><p>Twitter</p></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="span8 offset2">
+                            <h2><i class="icon-comment"></i> Community</h2>
+                            <p>Our community consists of highly skilled and informed individuals who are willing to share their knowledge with others. Our Post system promotes collaboration and sharing of professional tips, designs, suggestions, and more.</p>
+                            <p> Join, connect, learn, share, and grow with amazing developers and designers like you.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="span12">
+                <div class="landing-panel-signup center">
+                    <h3>Did me mention it is free and only takes seconds?</h3>
+                    <br />
+                    <div>
+                        <a class="btn btn-primary btn-large" href="/account/signup">CREATE YOUR PORTFOLIO NOW</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+        </section>
+        <footer id="footer">
+    <div class="container">
+        <div class="row">
+            <div class="span3" style="margin-top: -30px;">
+                <a href="http://www.topcoder.com" class="powered-by-tc"><img src="/images/TopcoderPowered-by[tc]-logo.png" title="Powered by topcoder (TM)" alt="Powered by topcoder (TM)" /></a>
+                <p>&copy; 2015 topcoder. All Rights Reserved.</p>
+            </div>
+            <div class="span9">
+                <nav>
+                    <ul>
+                        <li>
+                            <a href="http://shop.coderbits.com">Shop</a>
+                        </li>
+                        <li>
+                            <a href="/about">About</a>
+                        </li>
+                        <li>
+                            <a href="/api">API</a>
+                        </li>
+                        <li>
+                            <a href="/faq">FAQ</a>
+                        </li>
+                        <li>
+                            <a href="http://blog.coderbits.com">Blog</a>
+                        </li>
+                        <li>
+                            <a href="/tos">Terms of Service</a>
+                        </li>
+                        <li>
+                            <a href="https://twitter.com/coderbits" target="_blank"><i class="icon-twitter" style="padding-right: 3px;"></i></a>
+                            <a href="https://plus.google.com/106241900657881931121" target="_blank" rel="publisher"><i class="icon-google-plus" style="padding-right: 3px;"></i></a>
+                            <a href="https://www.facebook.com/coderbits" target="_blank"><i class="icon-facebook" style="padding-right: 3px;"></i></a>
+                            <a href="http://www.linkedin.com/company/coderbits" target="_blank"><i class="icon-linkedin"></i></a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+</footer>
+
+        <script src="/Scripts/shared?v=L4tfrGrhy1QULFpsY81i4_kGr0IPb4_ZQRL-wiTKnro1"></script>
+
+
+
+        
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('.hovercard').powerTip({
+                placement: 'n',
+                mouseOnToPopup: true,
+                smartPlacement: true,
+            });
+        });
+    </script>
+
+
+
+    </body>
+</html>
